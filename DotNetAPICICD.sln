@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetAPICICD", "DotNetAPICICD\DotNetAPICICD.csproj", "{2CE89236-7010-4F48-B08F-F7CCEFFBFC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiCICD.Tests", "DotNetApiCICD.Tests\DotNetApiCICD.Tests.csproj", "{9DE0543D-17E8-49B4-88AF-C916BB73164A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE89236-7010-4F48-B08F-F7CCEFFBFC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE89236-7010-4F48-B08F-F7CCEFFBFC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE89236-7010-4F48-B08F-F7CCEFFBFC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE89236-7010-4F48-B08F-F7CCEFFBFC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE0543D-17E8-49B4-88AF-C916BB73164A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE0543D-17E8-49B4-88AF-C916BB73164A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE0543D-17E8-49B4-88AF-C916BB73164A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE0543D-17E8-49B4-88AF-C916BB73164A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
